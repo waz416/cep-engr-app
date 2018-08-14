@@ -8,7 +8,7 @@
 //});
 
 
-<script>
+//<script>
 var firstName = "Waseem";
 var lastName = "Qazi";
 var jobTitle = "Traveler Care";
@@ -25,7 +25,7 @@ else if (id=="5") buttonValue = tellMeMore;
 
 document.getElementById("id_"+id).innerHTML = buttonValue;
 }
-</script>
+//</script>
 
 
 /*var demo = {
