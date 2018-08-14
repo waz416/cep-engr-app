@@ -8,7 +8,7 @@
 //});
 
 
-//<script>
+
 var firstName = "Waseem";
 var lastName = "Qazi";
 var jobTitle = "Traveler Care";
@@ -25,7 +25,6 @@ else if (id=="5") buttonValue = tellMeMore;
 
 document.getElementById("id_"+id).innerHTML = buttonValue;
 }
-//</script>
 
 
 /*var demo = {
@@ -42,4 +41,4 @@ function replaceMe(element, contents) {
   element.parentElement.innerHTML = contents;
 }
 //</script>
-// using jQuery and the object above, display the information as the appropriate button is clicked
+// using jQuery and the object above, display the information as the appropriate button is clicked*/
